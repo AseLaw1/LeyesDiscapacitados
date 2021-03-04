@@ -1,0 +1,3 @@
+[submodule "themes/LeyesDiscap"]
+	path = themes/LeyesDiscap
+	url = https://github.com/gethugothemes/restaurant-hugo.git
