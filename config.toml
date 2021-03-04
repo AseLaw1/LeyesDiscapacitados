@@ -3,6 +3,7 @@ baseURL = "https://AseLaw1.github.com/LeyesDiscapacitados"
 languageCode = "en-us"
 title = "Asesor de Leyes de Discapacitados"
 theme = "LeyesDiscap"
+publishDir = "docs"
 summaryLength = "10"
 paginate = 4
 
@@ -75,14 +76,14 @@ weight = 6
 [params]
 logo = "images/logo.png"
 # meta data
-author = "Themefisher"
+author = "IVONNE CASTRO"
 description = "This is meta description"
 # google analitycs ID
 google_analitycs_id = "Your ID"
 # mainSections
 main_sections = ["post"]
 # copyright
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright 2021 Designed by Ivonne Castro."
 
 # Preloader
 [params.preloader]
@@ -92,26 +93,25 @@ preloader = "" # use .png , .svg or .gif format
 ################################### Footer ############################
 [params.footer]
 enable = true
-contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
-galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
-
+contactInfoTitle = "INFORMACIÓN DE <span>CONTACTO</span> "
+blogTitle = "ÚLTIMOS<span>POST</span>"
+galleryTitle = "FOTOS <span></span>"
+socialTitle = "Síguenos <span></span>"
 ############################ footer contact item
 [[params.footer.contactItem]]
-title="Telephone"
+title="Teléfono"
 icon = "fa fa-phone"
-content = "016742 323313"
+content = "PBX: 046014080 / 046001590"
 
 [[params.footer.contactItem]]
-title="Address"
+title="Dirección"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+content = "Av. 9 de octubre y av Tungurahua, Ecuador - Guayaquil "
 
 [[params.footer.contactItem]]
-title="E mail"
+title="E-mail"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+content = "info@asesoronline.edu.ec"
 
 ######################### footer gallery
 [[params.footer.gallery]]
@@ -127,24 +127,20 @@ image = "images/slider/slider-img-3.jpg"
 image = "images/slider/slider-img-4.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/slider/slider-img-5.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/slider/slider-img-6.jpg"
 
 ######################## Social Icon 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
+link = "https://www.facebook.com/"
 
 [[params.footer.socialLink]]
 icon = "twitter"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "dribbble"
-link = "https://fb.com/themefisher"
+link = "https://twitter.com/"
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://www.instagram.com/"
